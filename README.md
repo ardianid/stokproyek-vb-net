@@ -1,6 +1,6 @@
 # stokproyek-vb-net
 
-program ini dibuat untuk memenuhi salah satu group perusahaan yang bergerak dibidang pembangunan gudang,jalan dan lain - lain
+program ini dibuat untuk memenuhi kebutuhan program untuk bidang pembangunan gudang,jalan dan lain - lain
 
 fungsi progam ini adalah :
 1. untuk mengontrol arus keluar masuk barang, karna untuk bahan baku diletakkan di gudang milik sendiri
